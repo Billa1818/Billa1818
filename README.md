@@ -60,7 +60,7 @@ me.say_hi()
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Objectifs 2025
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Objectifs
 
 - <img src="https://cdn-icons-png.flaticon.com/512/1705/1705312.png" width="18px"> **Maîtriser** l'architecture backend avancée (microservices, patterns)
 - <img src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" width="18px"> **Déployer** des APIs sécurisées et performantes en production
