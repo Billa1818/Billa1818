@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Billa
 
-<!--
-**Billa1818/Billa1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en informatique  
+💻 Développeur Web & Backend  
+🚀 Passionné par Django, Django REST Framework et l’Intelligence Artificielle
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Compétences techniques
+- Python | Django | Django REST Framework
+- API REST | Authentification JWT
+- Git & GitHub
+- JavaScript | React.js
+- SQL | SQLite | PostgreSQL
+- Bases en Machine Learning
+
+---
+
+## 🎯 Objectifs
+- Approfondir l’architecture backend
+- Déployer des APIs sécurisées
+- Construire des projets à impact réel
+
+---
+
+## 📫 Me contacter
+- GitHub : https://github.com/Billa1818
