@@ -22,8 +22,8 @@ class Billa:
         self.role = "Développeur Full-Stack"
         self.location = "🌍 Bénin"
         self.education = "Étudiant en Informatique"
-        self.focus = ["Backend Development", "API Design", "AI/ML"]
-        self.currently_learning = ["Architecture Microservices", "DevOps", "Deep Learning"]
+        self.focus = ["Backend Development", "API ", "AI/ML"]
+        self.currently_learning = ["DevOps", "Deep Learning"]
     
     def say_hi(self):
         print("Merci de visiter mon profil ! N'hésite pas à explorer mes projets 🚀")
@@ -78,7 +78,6 @@ me.say_hi()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billa1818&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Billa1818&theme=radical&hide_border=true)
 
 </div>
 
@@ -95,10 +94,7 @@ Découvrez mes projets épinglés ci-dessous pour voir ce sur quoi je travaille 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Suivre-181717?style=for-the-badge&logo=github)](https://github.com/Billa1818)
-[![Email](https://img.shields.io/badge/Email-Me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![Twitter](https://img.shields.io/badge/Twitter-Suivre-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/votre-profil)
-
+[![Email](https://img.shields.io/badge/Email-Me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:az9245054@gmail.com)
 </div>
 
 ---
