@@ -73,10 +73,8 @@ me.say_hi()
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Statistiques GitHub
 
 <div align="center">
-
-![GitHub Metrics](https://metrics.lecoq.io/Billa1818?template=classic&languages=1&languages.limit=8)
-![GitHub Metrics – Activité](https://metrics.lecoq.io/Billa1818?template=classic&isocalendar=1)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Billa1818&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Billa1818&layout=compact&theme=radical&hide_border=true)
 </div>
 
 ---
