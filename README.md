@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Salut, je suis Billa !
 
-### <img src="https://cdn-icons-png.flaticon.com/512/3389/3389081.png" width="20px"> Étudiant en Informatique | <img src="https://cdn-icons-png.flaticon.com/512/2040/2040946.png" width="20px"> Développeur Full-Stack | <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="20px"> Passionné d'IA
+###  Étudiant en Informatique |Développeur Full-Stack |  Passionné d'IA
 
 [![GitHub](https://img.shields.io/badge/GitHub-Billa1818-181717?style=for-the-badge&logo=github)](https://github.com/Billa1818)
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -20,13 +20,13 @@ Développeur passionné spécialisé dans le **backend** et les **APIs REST**, a
 class Billa:
     def __init__(self):
         self.role = "Développeur Full-Stack"
-        self.location = "🌍 Bénin"
+        self.location = "Bénin"
         self.education = "Étudiant en Informatique"
         self.focus = ["Backend Development", "API ", "AI/ML"]
         self.currently_learning = ["DevOps", "Deep Learning"]
     
     def say_hi(self):
-        print("Merci de visiter mon profil ! N'hésite pas à explorer mes projets 🚀")
+        print("Merci de visiter mon profil ! N'hésite pas à explorer mes projets ")
 
 me = Billa()
 me.say_hi()
@@ -34,7 +34,7 @@ me.say_hi()
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Stack Technique
+## Stack Technique
 
 ### Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -62,11 +62,11 @@ me.say_hi()
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Objectifs
 
-- <img src="https://cdn-icons-png.flaticon.com/512/1705/1705312.png" width="18px"> **Maîtriser** l'architecture backend avancée (microservices, patterns)
-- <img src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" width="18px"> **Déployer** des APIs sécurisées et performantes en production
-- <img src="https://cdn-icons-png.flaticon.com/512/7656/7656139.png" width="18px"> **Créer** des projets open-source à impact réel
-- <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="18px"> **Approfondir** mes connaissances en Machine Learning et Deep Learning
-- <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="18px"> **Contribuer** à des projets open-source de la communauté
+-  **Maîtriser** l'architecture backend avancée (microservices, patterns)
+-  **Déployer** des APIs sécurisées et performantes en production
+-  **Créer** des projets open-source à impact réel
+-  **Approfondir** mes connaissances en Machine Learning et Deep Learning
+-  **Contribuer** à des projets open-source de la communauté
 
 ---
 
