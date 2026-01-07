@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Salut, je suis Billa !
 
-###  Étudiant en Informatique |Développeur Full-Stack |  Passionné d'IA
+### Développeur Full-Stack & ML
 
 [![GitHub](https://img.shields.io/badge/GitHub-Billa1818-181717?style=for-the-badge&logo=github)](https://github.com/Billa1818)
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -67,16 +67,6 @@ me.say_hi()
 -  **Créer** des projets open-source à impact réel
 -  **Approfondir** mes connaissances en Machine Learning et Deep Learning
 -  **Contribuer** à des projets open-source de la communauté
-
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Statistiques GitHub
-
-<div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Billa1818&show_icons=true&theme=radical&hide_border=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billa1818&layout=compact&theme=radical&hide_border=true)
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> Projets en vedette
 
