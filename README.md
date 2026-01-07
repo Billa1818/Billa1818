@@ -21,7 +21,6 @@ class Billa:
     def __init__(self):
         self.role = "Développeur Full-Stack"
         self.location = "Bénin"
-        self.education = "Étudiant en Informatique"
         self.focus = ["Backend Development", "API ", "AI/ML"]
         self.currently_learning = ["DevOps", "Deep Learning"]
     
@@ -60,21 +59,7 @@ me.say_hi()
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Objectifs
-
--  **Maîtriser** l'architecture backend avancée (microservices, patterns)
--  **Déployer** des APIs sécurisées et performantes en production
--  **Créer** des projets open-source à impact réel
--  **Approfondir** mes connaissances en Machine Learning et Deep Learning
--  **Contribuer** à des projets open-source de la communauté
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> Projets en vedette
-
-Découvrez mes projets épinglés ci-dessous pour voir ce sur quoi je travaille ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> Restons connectés
+## Restons connectés
 
 <div align="center">
 
@@ -86,7 +71,7 @@ Découvrez mes projets épinglés ci-dessous pour voir ce sur quoi je travaille 
 
 <div align="center">
 
-### <img src="https://cdn-icons-png.flaticon.com/512/2810/2810051.png" width="20px"> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+###  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Billa1818&color=blueviolet&style=flat-square&label=Visiteurs)
 
